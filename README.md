@@ -1,0 +1,1 @@
+The REACT project is a hands-on MBA (full-stack development) assignment. It's a ReactJS project where I was created a list of candidates and showed it on the screen with some calculated data.
